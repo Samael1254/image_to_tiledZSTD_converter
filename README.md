@@ -41,5 +41,4 @@ This program uses [stb_image.h](https://github.com/nothings/stb/blob/master/stb_
 
 #### ⏩ Future improvements
 
-- Allow user to change the compression level
 - Allow cropped tiles at the end
